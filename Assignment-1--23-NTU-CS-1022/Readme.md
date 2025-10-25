@@ -77,3 +77,6 @@ Wokwi Link:
 Task-A -----> https://wokwi.com/projects/445502265516977153
 Task-B -----> https://wokwi.com/projects/445781194620551169
 
+Images:
+Task-A
+https://github.com/Essha-creator/ESP-32-Projects/blob/main/Assignment-1--23-NTU-CS-1022/AllOff.PNG?raw=true
