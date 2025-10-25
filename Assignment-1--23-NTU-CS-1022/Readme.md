@@ -82,3 +82,5 @@ Task-A
 All Off: 
 ![Task-A All Off](https://raw.githubusercontent.com/Essha-creator/ESP-32-Projects/d58697885b087fa2fef943108bafeea1f617053e/Assignment-1--23-NTU-CS-1022/AllOff.PNG)
 
+![All On](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/AllOn.PNG)
+
