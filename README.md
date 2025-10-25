@@ -35,7 +35,7 @@ Text or graphics are sent as pixel data, which the OLED renders on its small scr
 
 Why used: It gives real-time visual feedback — useful for debugging, monitoring sensors, or showing modes without a serial monitor.
 
-🌤 DHT Sensor (DHT11 or DHT22)
+ ### DHT Sensor (DHT11 or DHT22)
 
 Purpose: To measure temperature and humidity.
 
