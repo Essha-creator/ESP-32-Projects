@@ -80,4 +80,5 @@ Task-B -----> https://wokwi.com/projects/445781194620551169
 Images:
 Task-A
 All Off: 
-![image alt] (https://github.com/Essha-creator/ESP-32-Projects/blob/d58697885b087fa2fef943108bafeea1f617053e/Assignment-1--23-NTU-CS-1022/AllOff.PNG)
+![Task-A All Off](https://raw.githubusercontent.com/Essha-creator/ESP-32-Projects/d58697885b087fa2fef943108bafeea1f617053e/Assignment-1--23-NTU-CS-1022/AllOff.PNG)
+
