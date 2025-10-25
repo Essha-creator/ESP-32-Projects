@@ -84,3 +84,11 @@ All Off:
 
 ![All On](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/AllOn.PNG)
 
+![Blink-1](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Blink-1.PNG)
+
+![Blink-2](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Blink-2.PNG)
+
+![PWM Fade](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/PWMFade.PNG)
+
+![Reset](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Reset.PNG)
+
