@@ -29,16 +29,17 @@ Type	        Duration	Action
 Short Press	< 1.5 seconds	Toggle LEDs ON/OFF
 Long Press	> 1.5 seconds	Play a buzzer tone
 
-Hardware Setup
-Part	ESP32 Pin	Use
-BTN_MODE	15	Mode button
-BTN_RESET	4	Reset button
-LED1	13	LED output
-LED2	12	LED output
-LED3	14 / 21	LED output
-BUZZER	5	For long-press tone
-OLED SDA	21 / 23	I²C data line
-OLED SCL	22	I²C clock line
+**Pin Map**:
+| Part      | ESP32 Pin | Use                 |
+| BTN_MODE  | 15        | Mode button         |
+| BTN_RESET | 4         | Reset button        |
+| LED1      | 13        | LED output          |
+| LED2      | 12        | LED output          |
+| LED3      | 14 / 21   | LED output          |
+| BUZZER    | 5         | For long-press tone |
+| OLED SDA  | 21 / 23   | I²C data line       |
+| OLED SCL  | 22        | I²C clock line      |
+
 
 Libraries You’ll Need
 Install these from the Arduino Library Manager:
