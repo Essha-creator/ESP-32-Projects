@@ -92,3 +92,11 @@ All Off:
 
 ![Reset](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Reset.PNG)
 
+Images in Task-B:
+
+![Long Press](https://github.com/Essha-creator/ESP-32-Projects/blob/c7de187ba6e029d80c5b03a44a3507e03bfa2caf/Assignment-1--23-NTU-CS-1022/LongPress.PNG)
+
+![Short Press Off](https://github.com/Essha-creator/ESP-32-Projects/blob/c7de187ba6e029d80c5b03a44a3507e03bfa2caf/Assignment-1--23-NTU-CS-1022/ShortPressOff.PNG)
+
+![Short Press On](https://github.com/Essha-creator/ESP-32-Projects/blob/c7de187ba6e029d80c5b03a44a3507e03bfa2caf/Assignment-1--23-NTU-CS-1022/ShortPressOn.PNG)
+
