@@ -67,6 +67,8 @@ The current mode is displayed on an OLED screen.
 - Learning I²C communication with OLED.  
 - Understanding PWM and timing control using ESP32.
 
+![All Off](https://github.com/Essha-creator/ESP-32-Projects/blob/17d8c0dd98b1100c5b1611934d14a093134502b0/Assignment-1--23-NTU-CS-1022/Screenshots/Task-A/AllOff.PNG)
+
 ---
 
 # Task B — Button Press Detection with LED and Buzzer Feedback
