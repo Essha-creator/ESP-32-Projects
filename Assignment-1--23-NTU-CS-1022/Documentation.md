@@ -67,6 +67,26 @@ The current mode is displayed on an OLED screen.
 - Learning I²C communication with OLED.  
 - Understanding PWM and timing control using ESP32.
 
+  ## Task-A Output:
+
+### All Off
+![All Off](https://github.com/Essha-creator/ESP-32-Projects/blob/17d8c0dd98b1100c5b1611934d14a093134502b0/Assignment-1--23-NTU-CS-1022/Screenshots/Task-A/AllOff.PNG)
+
+### All On:
+![All On](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/AllOn.PNG)
+
+### Blink-1:
+![Blink-1](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Blink-1.PNG)
+
+### Blink-2:
+![Blink-2](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Blink-2.PNG)
+
+### PWM Fade:
+![PWM Fade](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/PWMFade.PNG)
+
+### Reset:
+![Reset](https://github.com/Essha-creator/ESP-32-Projects/blob/b4e10ea4ac1e061e8c786e83c974907f8b4fd16b/Assignment-1--23-NTU-CS-1022/Reset.PNG)
+
 ---
 
 # Task B — Button Press Detection with LED and Buzzer Feedback
@@ -124,6 +144,17 @@ To detect short and long button presses using ESP32 and perform actions:
 - `tone()` and `noTone()` handle buzzer sound generation.  
 - OLED provides instant user feedback for interaction clarity.
 
+## Task-B Output:
+
+### Long Press:
+![Long Press](https://github.com/Essha-creator/ESP-32-Projects/blob/c7de187ba6e029d80c5b03a44a3507e03bfa2caf/Assignment-1--23-NTU-CS-1022/LongPress.PNG)
+
+### Short Press-1:
+![Short Press Off](https://github.com/Essha-creator/ESP-32-Projects/blob/c7de187ba6e029d80c5b03a44a3507e03bfa2caf/Assignment-1--23-NTU-CS-1022/ShortPressOff.PNG)
+
+### Short Press-2:
+
+![Short Press On](https://github.com/Essha-creator/ESP-32-Projects/blob/c7de187ba6e029d80c5b03a44a3507e03bfa2caf/Assignment-1--23-NTU-CS-1022/ShortPressOn.PNG)
 ---
 
 ##  Applications
