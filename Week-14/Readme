@@ -1,0 +1,15 @@
+Publisher:
+Read data from DHT22 sensor (temp & humidity).
+Connect to broker using its IP.
+Publish data to topic home/IoTlab1.
+Display on OLED (optional).
+Subscriber:
+Connect to same broker IP.
+Subscribe to topic home/IoTlab1.
+Receive and display messages in real-time.
+Broker:
+Routes messages from publisher to subscriber.
+Supports multiple topics and clients.
+Notes:
+Topic names must match exactly.
+Real-time updates via publish-subscribe model
